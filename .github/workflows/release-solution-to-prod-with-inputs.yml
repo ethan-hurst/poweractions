@@ -51,7 +51,7 @@ on:
 
 jobs:
   convert-to-managed:
-    runs-on: windows-latest
+      runs-on: self-hosted
     # or you can say runs-on: ubuntu-latest
     env:
       RUNNER_DEBUG: 1
