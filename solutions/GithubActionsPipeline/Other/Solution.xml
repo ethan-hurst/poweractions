@@ -79,6 +79,7 @@
     </Publisher>
     <RootComponents>
       <RootComponent type="1" schemaName="crc2c_timeoffrequest" behavior="0" />
+      <RootComponent type="61" schemaName="crc2c_timeoffrequest.js" behavior="0" />
       <RootComponent type="62" schemaName="crc2c_TimeOffRequests" behavior="0" />
       <RootComponent type="80" schemaName="crc2c_TimeOffRequests" behavior="0" />
     </RootComponents>
