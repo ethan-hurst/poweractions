@@ -15,7 +15,7 @@ jobs:
       solution_name: GithubActionsPipeline
       #Update your values here
       BUILD_ENVIRONMENT_URL: https://org3c3ac2b9.crm6.dynamics.com/
-      PRODUCTION_ENVIRONMENT_URL: https://org3c3ac2b9.crm6.dynamics.com/
+      PRODUCTION_ENVIRONMENT_URL: https://orgcd10cf80.crm6.dynamics.com/
       CLIENT_ID: 9cc18849-6755-471d-bc44-74d8e4fd1055
       TENANT_ID: fac75216-7554-4d10-b3e2-27b6277bdf67      
     secrets:
